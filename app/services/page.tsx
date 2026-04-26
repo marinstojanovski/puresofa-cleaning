@@ -270,7 +270,7 @@ export default function ServicesPage() {
               Ready for a fresher home?
             </h2>
             <p className="text-gray-300 text-lg mb-8 leading-relaxed">
-              Message us on WhatsApp for a free, no-obligation quote. We'll assess
+              Message us on WhatsApp for a free, no-obligation quote. We&rsquo;ll assess
               your needs and book a time that suits you — anywhere in Malta.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
