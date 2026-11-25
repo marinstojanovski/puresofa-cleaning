@@ -368,5 +368,25 @@
     "code": "U301",
     "imageUrl": "https://chemiadoprania.pl/wp-content/uploads/2018/04/urine-stain-remover-5l.webp",
     "description": "A targeted enzyme and oxidiser formula developed specifically to break down urine crystals, neutralise uric acid odours, and remove the visible staining left by pet or human urine accidents on carpet and upholstery. Its dual action formula both removes the stain and permanently destroys the odour compounds rather than masking them."
+  },
+  {
+    "id": "s300-1l",
+    "name": "Bio Pack PRO S300",
+    "size": "1L",
+    "price": 10.01,
+    "category": "Carpet Presprays & Traffic Lane Cleaners",
+    "code": "S300",
+    "imageUrl": "https://chemiadoprania.pl/wp-content/uploads/2026/06/bio-pack-pro-1L.webp",
+    "description": "A concentrated enzymatic cleaner for organic stains and odours on carpets, upholstery and mattresses. It helps break down urine, food and grease residues and can be used as a prespray or cleaning booster."
+  },
+  {
+    "id": "p120-1l",
+    "name": "Stain Out P120",
+    "size": "1L",
+    "price": 12.65,
+    "category": "Spot & Stain Removers",
+    "code": "P120",
+    "imageUrl": "https://chemiadoprania.pl/wp-content/uploads/2026/06/GLOBAL-stain-out-1L.webp",
+    "description": "A ready-to-use alkaline spot remover for stubborn stains on carpets and upholstery. Formulated for professional textile cleaning without the need to dilute."
   }
 ]
