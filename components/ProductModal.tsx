@@ -137,7 +137,7 @@ export default function ProductModal({ product, onClose }: ProductModalProps) {
                           {label}
                         </td>
                         <td className="py-2 px-3 text-gray-800 rounded-r-md">
-                          {(specs as unknown as Record<string, string>)[key]}
+                          {key === "packaging" ? product.size : (specs as unknown as Record<string, string>)[key]}
                         </td>
                       </tr>
                     ))}
