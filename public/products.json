@@ -30,16 +30,6 @@
     "description": "A professional grade powdered prespray with an aggressive alkaline formula, delivering maximum soil suspension and degreasing power on heavily trafficked carpets and rugs. Dissolves in water to create a ready to use spray that boosts extraction efficiency and restores carpet brightness."
   },
   {
-    "id": "r130-300g",
-    "name": "Power Blast R130",
-    "size": "300g",
-    "price": 8.75,
-    "category": "Carpet Presprays & Traffic Lane Cleaners",
-    "code": "R130",
-    "imageUrl": "https://chemiadoprania.pl/wp-content/uploads/2018/04/power-blast-300g.webp",
-    "description": "A professional grade powdered prespray with an aggressive alkaline formula, delivering maximum soil suspension and degreasing power on heavily trafficked carpets and rugs. Dissolves in water to create a ready to use spray that boosts extraction efficiency and restores carpet brightness."
-  },
-  {
     "id": "pro98-1kg",
     "name": "Enzym PRO98",
     "size": "1kg",
@@ -48,26 +38,6 @@
     "code": "PRO98",
     "imageUrl": "https://chemiadoprania.pl/wp-content/uploads/2020/07/enzym-1-kg.webp",
     "description": "A premium enzyme based prespray containing a high concentration blend of protease, lipase, and amylase enzymes that biologically break down organic soils, food residues, and bodily fluids in carpet fibres. Ideal for deep treatment before hot water extraction, leaving carpets hygienically clean and odour free."
-  },
-  {
-    "id": "pro98-300g",
-    "name": "Enzym PRO98",
-    "size": "300g",
-    "price": 10.56,
-    "category": "Carpet Presprays & Traffic Lane Cleaners",
-    "code": "PRO98",
-    "imageUrl": "https://chemiadoprania.pl/wp-content/uploads/2020/07/enzym-300g.webp",
-    "description": "A premium enzyme based prespray containing a high concentration blend of protease, lipase, and amylase enzymes that biologically break down organic soils, food residues, and bodily fluids in carpet fibres. Ideal for deep treatment before hot water extraction, leaving carpets hygienically clean and odour free."
-  },
-  {
-    "id": "s550-5l-extraction",
-    "name": "Acid Ocean Rinse S550",
-    "size": "5L",
-    "price": 28.83,
-    "category": "Carpet Extraction Liquids",
-    "code": "S550",
-    "imageUrl": "https://chemiadoprania.pl/wp-content/uploads/2022/07/ocean-acid-rinse.jpg",
-    "description": "An acidic rinse agent formulated for use in the final rinse stage of hot water extraction, neutralising alkaline prespray residues and restoring the carpet's natural pH balance. Leaves fibres soft, residue free, and static resistant, significantly improving pile appearance and drying conditions."
   },
   {
     "id": "s602-1l",
@@ -90,16 +60,6 @@
     "description": "A professional powdered extraction compound that dissolves cleanly into extraction machine tanks, releasing a controlled foam formula to lift and suspend deep seated soils without flooding the substrate. Suitable for truck mount and portable extraction systems, delivering bright, fast drying results."
   },
   {
-    "id": "s880-300g",
-    "name": "Extraction Clean S880",
-    "size": "300g",
-    "price": 8.75,
-    "category": "Carpet Extraction Powders",
-    "code": "S880",
-    "imageUrl": "https://chemiadoprania.pl/wp-content/uploads/2019/08/extraction-300g.webp",
-    "description": "A professional powdered extraction compound that dissolves cleanly into extraction machine tanks, releasing a controlled foam formula to lift and suspend deep seated soils without flooding the substrate. Suitable for truck mount and portable extraction systems, delivering bright, fast drying results."
-  },
-  {
     "id": "b110-1kg",
     "name": "Finish B110",
     "size": "1kg",
@@ -118,36 +78,6 @@
     "code": "S103",
     "imageUrl": "https://chemiadoprania.pl/wp-content/uploads/2017/12/single-pass-1-kg.webp",
     "description": "A high efficiency single pass extraction powder engineered to clean and rinse in one machine pass, drastically reducing job time on lightly to moderately soiled carpets. Combines detergent and rinse agents in a single formula that leaves carpets clean, deodorised, and drying quickly."
-  },
-  {
-    "id": "b134-5l",
-    "name": "WoolSafe B134",
-    "size": "5L",
-    "price": 40.65,
-    "category": "Fine Fabric Detergents",
-    "code": "B134",
-    "imageUrl": "https://chemiadoprania.pl/wp-content/uploads/2017/12/wool-safe-5-l.webp",
-    "description": "A WoolSafe approved, pH neutral detergent formulated specifically for the safe cleaning of wool, silk, and delicate blended fibre carpets and rugs without risk of shrinkage or dye damage. Its gentle surfactant system effectively removes soiling and staining while preserving the natural lustre and texture of fine textile fibres."
-  },
-  {
-    "id": "p235-5l",
-    "name": "Dry Clean Solvent P235",
-    "size": "5L",
-    "price": 93.72,
-    "category": "Fine Fabric Detergents",
-    "code": "P235",
-    "imageUrl": "https://chemiadoprania.pl/wp-content/uploads/2022/07/dry-clean-solvent.jpg",
-    "description": "A professional strength dry cleaning solvent for upholstery, curtains, and water sensitive fine fabrics that cannot tolerate aqueous cleaning methods. It safely dissolves oil based soils, grease marks, and adhesive residues without wetting the substrate, eliminating shrinkage and watermark risks."
-  },
-  {
-    "id": "s550-5l-finefabric",
-    "name": "Acid Ocean Rinse S550",
-    "size": "5L",
-    "price": 28.88,
-    "category": "Fine Fabric Detergents",
-    "code": "S550",
-    "imageUrl": "https://chemiadoprania.pl/wp-content/uploads/2022/07/ocean-acid-rinse.jpg",
-    "description": "An acidic rinse agent suitable for use on fine fabrics as a final step neutraliser following alkaline cleaning treatments, restoring the fabric's natural pH and preventing residue build up. Its gentle acid balance helps lock in dye vibrancy and leaves delicate fabrics soft and conditioned after treatment."
   },
   {
     "id": "a370-1l",
@@ -178,16 +108,6 @@
     "code": "E206",
     "imageUrl": "https://chemiadoprania.pl/wp-content/uploads/2021/11/sta-kill-e206-1l-new.webp",
     "description": "An unperfumed version of the Sta Kill sanitising formula, designed for use in environments where fragrance sensitivity is a concern such as hospitals, dental practices, and allergy aware households. Delivers the same broad spectrum antimicrobial efficacy as E205 without any added fragrance compounds."
-  },
-  {
-    "id": "t502-5l",
-    "name": "Defoamer T502",
-    "size": "5L",
-    "price": 62.55,
-    "category": "Problem Solvers & Additives",
-    "code": "T502",
-    "imageUrl": "https://chemiadoprania.pl/wp-content/uploads/2022/08/defoamer.webp",
-    "description": "A high concentration silicone based defoamer additive for use in extraction machine tanks and recovery vessels to instantly collapse foam build up caused by overuse of cleaning chemicals or heavily soiled substrates. A small dose added directly to the dirty water tank prevents vacuum motor damage and maintains extraction efficiency throughout the job."
   },
   {
     "id": "heavysoil-1l",
@@ -240,16 +160,6 @@
     "description": "A solvent based spot remover specifically formulated to dissolve and lift paint, oil, and grease stains from carpet and upholstery fibres without damaging the substrate. Effective on both wet and dried deposits of trade paints, motor oil, lipstick, and wax, it evaporates cleanly and leaves no sticky residue."
   },
   {
-    "id": "c521-5l",
-    "name": "Stain Remover Plus C521",
-    "size": "5L",
-    "price": 66.17,
-    "category": "Spot & Stain Removers",
-    "code": "C521",
-    "imageUrl": "https://chemiadoprania.pl/wp-content/uploads/2018/04/stain-remover-5l.webp",
-    "description": "A professional strength multi purpose stain remover concentrate for high volume use, formulated to tackle a broad spectrum of staining including tannins, proteins, dyes, and oily marks on carpets, rugs, and upholstered surfaces. Available in a 5L trade size, it delivers consistent stain removal performance across large commercial cleaning operations."
-  },
-  {
     "id": "u301-500ml",
     "name": "Urine Stain Remover U301",
     "size": "500ml",
@@ -288,86 +198,6 @@
     "code": "L908",
     "imageUrl": "https://chemiadoprania.pl/wp-content/uploads/2022/08/leather-guard.webp",
     "description": "A water based leather protector that forms an invisible barrier on finished leather surfaces, repelling liquids, body oils, and dye transfer to keep leather upholstery cleaner for longer between professional services. Applied as a final step after cleaning and conditioning, it significantly reduces the adhesion of soils and staining agents."
-  },
-  {
-    "id": "s700-5l",
-    "name": "Auto Detail Plus S700",
-    "size": "5L",
-    "price": 29.70,
-    "category": "Carpet Presprays & Traffic Lane Cleaners",
-    "code": "S700",
-    "imageUrl": "https://chemiadoprania.pl/wp-content/uploads/2019/04/auto-detail-5l-.webp",
-    "description": "A concentrated prespray designed for professional automotive upholstery and carpet detailing, cutting through ground in traffic lane soiling with ease. Formulated with powerful surfactants to loosen and suspend heavy soiling before hot water extraction or dry vacuuming."
-  },
-  {
-    "id": "s601-5l",
-    "name": "Nasty AquaClean S601",
-    "size": "5L",
-    "price": 41.20,
-    "category": "Carpet Presprays & Traffic Lane Cleaners",
-    "code": "S601",
-    "imageUrl": "https://chemiadoprania.pl/wp-content/uploads/2025/11/nasty-5l-.webp",
-    "description": "A high alkaline aqua prespray engineered to tackle extreme soiling, greasy residues, and heavily contaminated traffic lanes in commercial environments. Its fast acting formula penetrates deep into carpet fibres to emulsify stubborn soils prior to extraction."
-  },
-  {
-    "id": "s602-5l",
-    "name": "Hydra AquaClean S602",
-    "size": "5L",
-    "price": 45.05,
-    "category": "Carpet Extraction Liquids",
-    "code": "S602",
-    "imageUrl": "https://chemiadoprania.pl/wp-content/uploads/2025/08/hydra-5l.webp",
-    "description": "A low foaming extraction liquid specially formulated for use in hot water extraction machines, combining powerful cleaning surfactants with a built in agent that prevents resoiling. It efficiently removes suspended soils during the extraction pass while protecting carpet fibres from rapid recontamination."
-  },
-  {
-    "id": "a370-5l",
-    "name": "Citra X Out A370",
-    "size": "5L",
-    "price": 30.36,
-    "category": "Neutralisers, Deodorisers & Sanitisers",
-    "code": "A370",
-    "imageUrl": "https://chemiadoprania.pl/wp-content/uploads/2022/03/citra-x-out-5l.webp",
-    "description": "A citrus based deodoriser and neutraliser that chemically eliminates malodours at their source rather than simply masking them, using natural citrus extracts to break down odour causing organic compounds. Highly effective on musty odours, pet smells, and traffic lane contamination in carpets and upholstery."
-  },
-  {
-    "id": "e205-5l",
-    "name": "Sta Kill E205",
-    "size": "5L",
-    "price": 30.14,
-    "category": "Neutralisers, Deodorisers & Sanitisers",
-    "code": "E205",
-    "imageUrl": "https://chemiadoprania.pl/wp-content/uploads/2021/11/sta-kill-e205-5l-new.webp",
-    "description": "A broad spectrum sanitising agent formulated to kill bacteria, fungi, and odour producing microorganisms on contact in carpets and soft furnishings. Its residual antimicrobial action provides lasting protection, making it ideal for use in high traffic commercial environments, nurseries, and care facilities."
-  },
-  {
-    "id": "e206-5l",
-    "name": "Sta Kill E206 No Perfume",
-    "size": "5L",
-    "price": 32.73,
-    "category": "Neutralisers, Deodorisers & Sanitisers",
-    "code": "E206",
-    "imageUrl": "https://chemiadoprania.pl/wp-content/uploads/2021/11/sta-kill-e206-5l-new.webp",
-    "description": "An unperfumed version of the Sta Kill sanitising formula, designed for use in environments where fragrance sensitivity is a concern such as hospitals, dental practices, and allergy aware households. Delivers the same broad spectrum antimicrobial efficacy as E205 without any added fragrance compounds."
-  },
-  {
-    "id": "heavysoil-5l",
-    "name": "Heavy Soil",
-    "size": "5L",
-    "price": 28.88,
-    "category": "Problem Solvers & Additives",
-    "code": "HEAVYSOIL",
-    "imageUrl": "https://chemiadoprania.pl/wp-content/uploads/2022/03/heavy-soil-5l.webp",
-    "description": "A high alkaline booster additive designed to be mixed with prespray solutions when tackling exceptionally heavy soiling, grease contamination, or long neglected carpets that require additional cleaning power. Enhances the performance of standard presprays without leaving harmful residues that could attract future soiling."
-  },
-  {
-    "id": "u301-5l",
-    "name": "Urine Stain Remover U301",
-    "size": "5L",
-    "price": 30.14,
-    "category": "Spot & Stain Removers",
-    "code": "U301",
-    "imageUrl": "https://chemiadoprania.pl/wp-content/uploads/2018/04/urine-stain-remover-5l.webp",
-    "description": "A targeted enzyme and oxidiser formula developed specifically to break down urine crystals, neutralise uric acid odours, and remove the visible staining left by pet or human urine accidents on carpet and upholstery. Its dual action formula both removes the stain and permanently destroys the odour compounds rather than masking them."
   },
   {
     "id": "s300-1l",
